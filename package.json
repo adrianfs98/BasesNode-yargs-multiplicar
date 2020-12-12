@@ -1,0 +1,17 @@
+{
+  "name": "basesnode",
+  "version": "1.0.0",
+  "description": "Esta app de linea de comando usando las funcionalidades bases de node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Ferrandis",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
