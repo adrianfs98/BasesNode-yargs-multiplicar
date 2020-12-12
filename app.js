@@ -1,7 +1,10 @@
 //*normalmente al inicio ponemos todos los requires al inicio 
+//?esto que acabamos hacer del const {} se llama desestructuracion
 const {
     argv
 } = require('./config/yargs')
+//? tb podiamos haber heecho esto
+//const argv= require('./config/yargs').argv
 
 //?esto que acabamos hacer del const {} se llama desestructuracion
 const {
